@@ -86,6 +86,13 @@ A simple and responsive full-stack URL shortening service built with Node.js, Ex
 
 The server runs at `http://localhost:3000`
 
+<img width="1918" height="1015" alt="Screenshot 2025-07-15 104933" src="https://github.com/user-attachments/assets/baf46cdb-d374-4bdc-b4ec-f5565116a0d3" />
+
+<img width="1912" height="1013" alt="Screenshot 2025-07-15 105356" src="https://github.com/user-attachments/assets/122e1cd4-66ee-4f43-8e3d-3e578eab44fd" />
+
+<img width="1919" height="1019" alt="Screenshot 2025-07-15 105211" src="https://github.com/user-attachments/assets/4670e3dd-261a-4f79-a1f0-52565b4e7022" />
+
+
 ### 🖼 Frontend Setup
 
 1. Navigate to the client directory:
